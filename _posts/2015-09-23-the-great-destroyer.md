@@ -1,8 +1,8 @@
 ---
-title: The Great Destroyer
+title: The Chronicles of Sticky Pete
 layout: post
 background: https://cdna.artstation.com/p/assets/images/images/002/187/704/large/teun-van-der-zalm-ncu001-13d.jpg
-subtitle: Time to meet the creator.
+subtitle: Design process
 artist: artstation.com/teunvanderzalm
 ---
 
