@@ -1,15 +1,14 @@
-title:             Square Zero
-email:             sssurajsuraj@gmail.com
+title:             Game Design Portfolio
+email:             abhilash_lr@yahoo.ca
 description:       Silent Observations
-author:            J
+author:            Abhilash Ravindranath
 #url:               "localhost:4000"
-url:               "http://squarezero.github.io/"
+url:               "http://gd-asoka.github.io/"
 baseurl:
 
 # Social Profiles
-#twitter_username:  SBootstrap
-#github_username:   BlackrockDigital
-#facebook_username: StartBootstrap
+#itch_username:  asoka.itch.io
+#github_username:   gd-asoka
 
 # Build settings
 markdown:          kramdown
