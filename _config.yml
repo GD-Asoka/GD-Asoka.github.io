@@ -1,15 +1,14 @@
-title:             Axoka Interactive
-email:             AxokaInteractive@gmail.com
-description:       Game Design Portfolio
+title:             Game Design Portfolio
+email:             abhilash_lr@yahoo.ca
+description:       Silent Observations
 author:            Abhilash Ravindranath
 #url:               "localhost:4000"
-url:               "gd-asoka.github.io/"
+url:               "http://gd-asoka.github.io/"
 baseurl:
 
 # Social Profiles
-#twitter_username:  SBootstrap
-#github_username:   BlackrockDigital
-#facebook_username: StartBootstrap
+#itch_username:  asoka.itch.io
+#github_username:   gd-asoka
 
 # Build settings
 markdown:          kramdown
