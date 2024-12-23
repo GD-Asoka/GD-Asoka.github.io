@@ -8,7 +8,7 @@ artist: Abhilash Ravindranath
 
 The Chronicles of Sticky Pete is my favorite game I've ever made. The concept of the game is switching perspectives using your 'doodle jump' ability. The art style is set in the sketch book of Pete, the game designer. The story is that Pete is dreaming, and you must help solve the puzzles in his dream to help him wake up.
 <figure>
-  <img src="/img/TCoSP.png" alt="Tutorial" width: 800px>
+  <img src="/img/TCoSP.png" alt="Tutorial" width="800">
   <figcaption>Tutorial Level</figcaption>
 </figure>
 The game was inspired by TooDee and TopDee, but in this game, there is only one character, and gravity changes every time sticky pete switches from topdown to sidescroller and vice versa. 
