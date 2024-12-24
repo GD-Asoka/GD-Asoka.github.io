@@ -2,7 +2,7 @@
 title: The Chronicles of Sticky Pete
 layout: post
 background: "/img/TCoSP.png"
-subtitle: Design Process
+subtitle: Game Design
 artist: Abhilash Ravindranath
 ---
 
