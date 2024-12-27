@@ -77,3 +77,11 @@ artist: artstation.com/equinoz
 </figure>
 <p>
 </p>
+<h2>Systems Design</h2>
+<br>Created a character for Brawlhalla, a 1 vs 1 combat game. Designed and balanced to fit within the existing meta of the game.
+<figure>
+  <img src="/img/TCoSP.png" alt="Tutorial" width="800">
+  <figcaption>Tutorial Level</figcaption>
+</figure>
+<p>
+</p>
