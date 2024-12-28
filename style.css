@@ -13,11 +13,22 @@
         gap: 20px;
     text-align: center;
 }
-*/ .image-container {
+/*
+/* .image-container {
     display: flex;
     justify-content: space-around;
 }
 
 .image-container div {
+    text-align: center;
+}
+
+*/ .image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image-item {
     text-align: center;
 }
