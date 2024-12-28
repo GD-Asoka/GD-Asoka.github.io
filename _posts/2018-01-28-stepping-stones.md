@@ -67,7 +67,7 @@ Stonk Warrior 2 - Coming full circle, SW2 was the penultimate game I worked on i
   <figcaption>Tutorial Level</figcaption>
 </figure>
 </p>
-
+{% linkpreview "https://asoka.itch.io" %}
 <p>
  <a href="https://tomblack.itch.io/chroniclesofstickypete" target="_blank">Please try out the game here!</a>
 </p>
