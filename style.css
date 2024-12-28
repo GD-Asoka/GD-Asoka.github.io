@@ -3,14 +3,14 @@
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    }
+    gap: 20px;
+        /* Adds some space between the items */
+}
 
 .image-item {
     text-align: center;
     flex: 1;
     /* Ensures the images take equal space */
-        padding: 10px;
-        /* Adds some space around each item */
 }
 
 .image-item img {
