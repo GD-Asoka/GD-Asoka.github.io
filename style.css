@@ -19,9 +19,31 @@
     /* Keeps images responsive */
 }
 
+.centered-figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.centered-figure img {
+    max-width: 100%;
+    height: auto;
+}
 figcaption {
     font-size: 20px;
     /* Adjust the size as needed */
-    color: #333;
+    color: #ffc59e;
     /* Optional: Change the color as well */
+}
+a {
+    color: rgb(125, 238, 255);
+    /* Change this to your desired color */
+    text-decoration: none;
+    /* Optional: remove underline */
+}
+
+a:hover {
+    color: rgb(226, 129, 255);
+    /* Change this to the color on hover */
 }
