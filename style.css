@@ -1,4 +1,4 @@
-/*figure {
+figure {
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -7,5 +7,3 @@
 .image-container {
     text-align: center;
 }
-
-*/
