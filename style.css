@@ -1,0 +1,49 @@
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+        /* Adds some space between the items */
+}
+
+.image-item {
+    text-align: center;
+    flex: 1;
+    /* Ensures the images take equal space */
+}
+
+.image-item img {
+    max-width: 100%;
+    height: auto;
+    /* Keeps images responsive */
+}
+
+.centered-figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.centered-figure img {
+    max-width: 100%;
+    height: auto;
+}
+figcaption {
+    font-size: 20px;
+    /* Adjust the size as needed */
+    color: #ffc59e;
+    /* Optional: Change the color as well */
+}
+a {
+    color: rgb(125, 238, 255);
+    /* Change this to your desired color */
+    text-decoration: none;
+    /* Optional: remove underline */
+}
+
+a:hover {
+    color: rgb(129, 255, 209);
+    /* Change this to the color on hover */
+}
