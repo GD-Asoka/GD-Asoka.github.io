@@ -4,7 +4,7 @@
     align-items: center;
     width: 100%;
     gap: 20px;
-    /* Adds some space between the items */
+        /* Adds some space between the items */
 }
 
 .image-item {
@@ -17,8 +17,4 @@
     max-width: 100%;
     height: auto;
     /* Keeps images responsive */
-}
-
-h2 {
-    color: red;
 }
