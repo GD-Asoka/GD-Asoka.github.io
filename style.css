@@ -6,10 +6,18 @@
 }
 
 */
-.image-container {
+/* .image-container {
     display: flex;
-        /* justify-content: center; */
+        justify-content: center;
             justify-content: space-between;
         gap: 20px;
+    text-align: center;
+}
+*/ .image-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.image-container div {
     text-align: center;
 }
