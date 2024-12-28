@@ -18,3 +18,10 @@
     height: auto;
     /* Keeps images responsive */
 }
+
+figcaption {
+    font-size: 20px;
+    /* Adjust the size as needed */
+    color: #333;
+    /* Optional: Change the color as well */
+}
