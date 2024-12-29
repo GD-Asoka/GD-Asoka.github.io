@@ -67,7 +67,17 @@ Stonk Warrior 2 - Coming full circle, SW2 was the penultimate game I worked on i
   <figcaption>Tutorial Level</figcaption>
 </figure>
 </p>
-{% linkpreview "https://asoka.itch.io" %}
+<!-- {% linkpreview "https://asoka.itch.io" %} -->
+<div id="link-preview"></div> 
+<script> 
+async function fetchOpenGraphData(url) { 
+  try { 
+    const response = await fetch(`https://opengraph.io/api/1.0/site/${encodeURIComponent(url)}?app_id=your_app_id`); 
+  const data = await response.json(); 
+  document.getElementById('link-preview').innerHTML = ` <h3><a href="${data.hybridGraph.url}">${data.hybridGraph.title}</a></h3> <img src="${data.hybridGraph.image}" alt="${data.hybridGraph.title}" style="max-width:100%;" /> <p>${data.hybridGraph.description}</p> `; } 
+  catch (error) { 
+    console.error('Error fetching Open Graph data:', error); } } // Call the function with your URL 
+    fetchOpenGraphData('https://asoka.itch.io');
 <p>
  <a href="https://tomblack.itch.io/chroniclesofstickypete" target="_blank">Please try out the game here!</a>
 </p>
