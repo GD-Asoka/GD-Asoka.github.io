@@ -9,7 +9,6 @@ gem 'jekyll-admin', group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-paginate", "~> 1.1.0"
-  gem "jekyll-linkpreview", "~> 0.1"
 end
 
 require 'rbconfig'
