@@ -42,7 +42,7 @@ artist: artstation.com/equinoz
 <figure class="image-container"> 
   <div class="image-item"> <img src="/img/SP_H.jpg" alt="Sub" width="400"> 
   <figcaption>VR Escape Room</figcaption> 
-  </div> Created a Virtual Reality escape room game in Unity - a short puzzle game with 3 levels.
+  </div> 
   <div class="image-item"> <img src="/img/SP_R.jpg" alt="Sub" width="400"> 
   <figcaption>MR Platformer</figcaption> 
   </div> 
