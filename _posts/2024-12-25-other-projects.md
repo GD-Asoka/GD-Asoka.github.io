@@ -5,6 +5,7 @@ layout: post
 subtitle: Game Dev Highlights
 artist: artstation.com/equinoz
 ---
+
 <h2>Game Design Document</h2>
 <br>I have created multiple Game Design Documents, but the one I made for my final project - Biodread is the most detailed. Created in Notion, it is essentially a Game Design Wiki that can be used by the entire team to ensure that every aspect of the game (almost) is clearly outlined and detailed.
 <figure>
@@ -13,6 +14,7 @@ artist: artstation.com/equinoz
 </figure>
 <p>
 </p>
+
 <h2>Narrative Design</h2>
 <br>Created a story bible for a fictional game in confluence - a wiki with details about characters, plot, setting and lore. 
 <figure>
@@ -23,6 +25,7 @@ artist: artstation.com/equinoz
 </figure>
 <p>
 </p>
+
 <h2>Quest Design</h2>
 <br>Designed a playable quest for Assassin's Creed Odyssey using Ubisoft's ACO story creator, with multiple characters, endings, and different ways to complete the quest, lending to a more immersive roleplaying experience.
 <figure>
@@ -33,27 +36,18 @@ artist: artstation.com/equinoz
 </figure>
 <p>
 </p>
+
 <h1> Extender Reality (XR)</h1>
-<div>
-<span>
-<h2>VR Escape Room</h2>
-<br>Created a Virtual Reality escape room game in Unity. A short puzzle game with 3 levels.
-<figure>
-  <img src="/img/TCoSP.png" alt="Tutorial" width="800">
-  <figcaption>Tutorial Level</figcaption>
+<div>Created a Virtual Reality escape room game in Unity. A short puzzle game with 3 levels, and a Mixed Reality platformer game in Unity - A short but cool game which spawns the level in the real world! </div>
+<figure class="image-container"> 
+  <div class="image-item"> <img src="/img/SP_H.jpg" alt="Sub" width="400"> 
+  <figcaption>VR Escape Room</figcaption> 
+  </div> Created a Virtual Reality escape room game in Unity - a short puzzle game with 3 levels.
+  <div class="image-item"> <img src="/img/SP_R.jpg" alt="Sub" width="400"> 
+  <figcaption>MR Platformer</figcaption> 
+  </div> 
 </figure>
-</span>
-<span>
-<h2>MR Platformer</h2>
-<br>Created a Mixed Reality platformer game in Unity. A short but cool game which spawns the level in the real world!
-<figure>
-  <img src="/img/TCoSP.png" alt="Tutorial" width="800">
-  <figcaption>Tutorial Level</figcaption>
-</figure>
-</span>
-</div>
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=y2-ViFBU8fc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div><iframe width="560" height="315" src="https://www.youtube.com/embed/y2-ViFBU8fc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <!-- <h2>AR Face Filter</h2>
 <br>Created an Augmented Reality face filter for mobile and PC. Created on Lens Studio, you can use this filter to create videos of yourself on Snapchat!
