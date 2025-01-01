@@ -13,14 +13,6 @@ artist: artstation.com/equinoz
 </figure>
 <p>
 </p>
-<!-- <h2>Procedural Animation</h2>
-<br>Created a spider that animates the movement of its legs procedurally; using blueprints in UE5 for my technical art class.
-<figure>
-  <img src="/img/TCoSP.png" alt="Tutorial" width="800">
-  <figcaption>Tutorial Level</figcaption>
-</figure>
-<p>
-</p> -->
 <h2>Narrative Design</h2>
 <br>Created a story bible for a fictional game in confluence - a wiki with details about characters, plot, setting and lore. 
 <figure>

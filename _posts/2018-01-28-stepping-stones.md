@@ -67,6 +67,11 @@ Stonk Warrior 2 - Coming full circle, SW2 was the penultimate game I worked on i
   <figcaption>Tutorial Level</figcaption>
 </figure>
 </p>
+<div class="link-preview" onclick="window.location.href='https://example.com';">
+  <img src="https://example.com/image.jpg" alt="Example Image" class="preview-image">
+  <h3 class="preview-title">Example Title</h3>
+  <p class="preview-description">Example description for the link preview goes here.</p>
+</div>
 
 <p>
  <a href="https://tomblack.itch.io/chroniclesofstickypete" target="_blank">Please try out the game here!</a>

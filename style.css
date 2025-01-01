@@ -47,3 +47,35 @@ a:hover {
     color: rgb(129, 255, 209);
     /* Change this to the color on hover */
 }
+
+.link-preview {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+    text-align: center;
+    width: 300px; /* Adjust as needed */
+  }
+  
+  .link-preview:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .preview-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .preview-title {
+    font-size: 1.2em;
+    margin: 0.5em 0;
+  }
+  
+  .preview-description {
+    font-size: 1em;
+    color: #666;
+    margin: 0 1em 1em 1em;
+  }
+  
