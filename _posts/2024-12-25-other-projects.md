@@ -25,7 +25,9 @@ artist: artstation.com/equinoz
 <br>Created a story bible for a fictional game in confluence - a wiki with details about characters, plot, setting and lore. 
 <figure>
   <img src="/img/TCoSP.png" alt="Tutorial" width="800">
-  <figcaption>Tutorial Level</figcaption>
+  <figcaption>
+  <a href="https://tomblack.itch.io/chroniclesofstickypete" target="_blank">Please try out the game here!</a>
+  </figcaption>
 </figure>
 <p>
 </p>
@@ -33,26 +35,34 @@ artist: artstation.com/equinoz
 <br>Designed a playable quest for Assassin's Creed Odyssey using Ubisoft's ACO story creator, with multiple characters, endings, and different ways to complete the quest, lending to a more immersive roleplaying experience.
 <figure>
   <img src="/img/TCoSP.png" alt="Tutorial" width="800">
-  <figcaption>Tutorial Level</figcaption>
+  <figcaption>
+  <a href="https://tomblack.itch.io/chroniclesofstickypete" target="_blank">Please try out the game here!</a>
+  </figcaption>
 </figure>
 <p>
 </p>
+<h1> Extender Reality (XR)</h1>
+<div>
+<span>
 <h2>VR Escape Room</h2>
 <br>Created a Virtual Reality escape room game in Unity. A short puzzle game with 3 levels.
 <figure>
   <img src="/img/TCoSP.png" alt="Tutorial" width="800">
   <figcaption>Tutorial Level</figcaption>
 </figure>
-<p>
-</p>
+</span>
+<span>
 <h2>MR Platformer</h2>
 <br>Created a Mixed Reality platformer game in Unity. A short but cool game which spawns the level in the real world!
 <figure>
   <img src="/img/TCoSP.png" alt="Tutorial" width="800">
   <figcaption>Tutorial Level</figcaption>
 </figure>
-<p>
-</p>
+</span>
+</div>
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=y2-ViFBU8fc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <!-- <h2>AR Face Filter</h2>
 <br>Created an Augmented Reality face filter for mobile and PC. Created on Lens Studio, you can use this filter to create videos of yourself on Snapchat!
 <figure>
