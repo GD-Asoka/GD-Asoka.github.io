@@ -19,9 +19,9 @@ artist: artstation.com/equinoz
 <br>Created a story bible for a fictional game in confluence - a wiki with details about characters, plot, setting and lore. 
 <a href="https://prod-g2w-acod.ubi.com/creator/app#storykey=liNu7SU9fgpDFhmwERbcnqhIFHfbxKN1h+4z0w6tVUE=" target = "_blank" class="link-preview"> 
   <img src="/img/ND.png" alt="Thumbnail" width="800"> 
+</a>
   <div class="title">Assassin's Creed Odyssey: Story Creator Mode | Ubisoft (US)</div> 
   <div class="description">The Ano Mera mystery - The chief of Ano Mera is missing; Find him before its too late.</div> 
-</a>
 <p>
 </p>
 
