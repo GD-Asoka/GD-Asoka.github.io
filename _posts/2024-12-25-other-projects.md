@@ -15,23 +15,23 @@ artist: artstation.com/equinoz
 <p>
 </p>
 
-<h2>Narrative Design</h2>
-<p>Created a story bible for a fictional game in Confluence - a wiki with details about characters, plot, setting, and lore.</p>
+<h2>Quest Design</h2>
+<br>Designed a playable quest for Assassin's Creed Odyssey using Ubisoft's ACO story creator, with multiple characters, endings, and different ways to complete the quest, lending to a more immersive roleplaying experience.
 <a href="https://prod-g2w-acod.ubi.com/creator/app#storykey=liNu7SU9fgpDFhmwERbcnqhIFHfbxKN1h+4z0w6tVUE=" target="_blank" class="link-preview image-container">
-    <img src="/img/ND.png" alt="Narrative Design Thumbnail" width="800">  
+    <img src="/img/ND.png" alt="Quest Design Thumbnail" width="800">  
 </a>
   <div class="title">Assassin's Creed Odyssey: Story Creator Mode | Ubisoft (US)</div>
   <div class="description">The Ano Mera mystery - The chief of Ano Mera is missing; Find him before it's too late.</div>
+<p>
+</p>
 
-
-<h2>Quest Design</h2>
-<br>Designed a playable quest for Assassin's Creed Odyssey using Ubisoft's ACO story creator, with multiple characters, endings, and different ways to complete the quest, lending to a more immersive roleplaying experience.
-<figure>
-  <img src="/img/TCoSP.png" alt="Tutorial" width="800">
-  <figcaption>
-  <a href="https://tomblack.itch.io/chroniclesofstickypete" target="_blank">Please try out the game here!</a>
-  </figcaption>
-</figure>
+<h2>Narrative Design</h2>
+<br>Created a story bible for a fictional game in Confluence - a wiki with details about characters, plot, setting, and lore.
+<a href="https://confluence.kpuenta.ca:8444/x/jwDlBg" target="_blank" class="link-preview image-container">
+    <img src="/img/ND.png" alt="Narrative Design Thumbnail" width="800">  
+</a>
+  <div class="title">Fools' Gold (VR) | Abhilash Ravindranath | KPU ENTA CEA| Advanced Game Development</div>
+  <div class="description">Fool's Gold is set in 1862, 9 years after the Texas gold rush of '53, in a fictional border town between Texas and Mexico called Nueva Frontera (New Frontier). </div>
 <p>
 </p>
 
