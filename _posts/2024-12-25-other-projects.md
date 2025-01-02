@@ -17,13 +17,11 @@ artist: artstation.com/equinoz
 
 <h2>Narrative Design</h2>
 <p>Created a story bible for a fictional game in Confluence - a wiki with details about characters, plot, setting, and lore.</p>
-<a href="https://prod-g2w-acod.ubi.com/creator/app#storykey=liNu7SU9fgpDFhmwERbcnqhIFHfbxKN1h+4z0w6tVUE=" target="_blank" class="link-preview">
-  <div class="image-container">
-    <img src="/img/ND.png" alt="Narrative Design Thumbnail" width="800">
-  </div>
+<a href="https://prod-g2w-acod.ubi.com/creator/app#storykey=liNu7SU9fgpDFhmwERbcnqhIFHfbxKN1h+4z0w6tVUE=" target="_blank" class="link-preview image-container">
+    <img src="/img/ND.png" alt="Narrative Design Thumbnail" width="800">  
+</a>
   <div class="title">Assassin's Creed Odyssey: Story Creator Mode | Ubisoft (US)</div>
   <div class="description">The Ano Mera mystery - The chief of Ano Mera is missing; Find him before it's too late.</div>
-</a>
 
 
 <h2>Quest Design</h2>
