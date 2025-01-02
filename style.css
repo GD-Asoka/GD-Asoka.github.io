@@ -6,6 +6,16 @@
     gap: 20px;
         /* Adds some space between the items */
 }
+/* CSS for the image container */
+.image-container img {
+  transition: all 0.3s ease;
+}
+
+/* CSS for the hover effect */
+.image-container img:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  opacity: 0.8;
+}
 
 .image-item {
     text-align: center;
@@ -78,4 +88,27 @@ a:hover {
     color: #666;
     margin: 0 1em 1em 1em;
   }
+.link-preview {
+  border: 1px solid #ddd;
+  padding: 10px;
+  max-width: 300px;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
   
+        .link-preview img {
+          max-width: 100%;
+          height: auto;
+        }
+    
+        .link-preview .title {
+          font-size: 16px;
+          font-weight: bold;
+          margin: 5px 0;
+        }
+    
+        .link-preview .description {
+          font-size: 14px;
+          color: #555;
+        }
