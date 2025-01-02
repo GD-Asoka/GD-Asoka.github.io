@@ -20,9 +20,10 @@ artist: artstation.com/equinoz
 <a href="https://prod-g2w-acod.ubi.com/creator/app#storykey=liNu7SU9fgpDFhmwERbcnqhIFHfbxKN1h+4z0w6tVUE=" target = "_blank" class="link-preview"> 
   <img src="/img/ND.png" alt="Thumbnail" width="800"> 
   <div class="title">Assassin's Creed Odyssey: Story Creator Mode | Ubisoft (US)</div> 
-  <div class="description">The Ano Mera mystery - The chief of Ano Mera is missing; Find him before its too late.
-  </div> 
+  <div class="description">The Ano Mera mystery - The chief of Ano Mera is missing; Find him before its too late.</div> 
 </a>
+<p>
+</p>
 
 
 <h2>Quest Design</h2>
