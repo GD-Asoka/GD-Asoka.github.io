@@ -48,14 +48,7 @@ artist: artstation.com/equinoz
 </figure>
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/y2-ViFBU8fc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<!-- <h2>AR Face Filter</h2>
-<br>Created an Augmented Reality face filter for mobile and PC. Created on Lens Studio, you can use this filter to create videos of yourself on Snapchat!
-<figure>
-  <img src="/img/TCoSP.png" alt="Tutorial" width="800">
-  <figcaption>Tutorial Level</figcaption>
-</figure>
-<p>
-</p> -->
+
 <h2>Level Design 3D</h2>
 <br>Created a large scale enironment in Unreal Engine 5 utilizing Nanite and Lumen. Implemented various level design principles to create a level for the game Spyro.
 <figure>
