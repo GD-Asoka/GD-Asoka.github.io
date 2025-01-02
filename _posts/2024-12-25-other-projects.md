@@ -41,10 +41,10 @@ artist: artstation.com/equinoz
 <h1> Extender Reality (XR)</h1>
 <div>Created a Virtual Reality escape room game in Unity. A short puzzle game with 3 levels, and a Mixed Reality platformer game in Unity - A short but cool game which spawns the level in the real world! </div>
 <figure class="image-container"> 
-  <div class="image-item"> <img src="/img/SP_H.jpg" alt="Sub" width="400"> 
+  <div class="image-item"> <img src="/img/VR_1.png" alt="Sub" width="400"> 
   <figcaption>VR Escape Room</figcaption> 
   </div> 
-  <div class="image-item"> <img src="/img/SP_R.jpg" alt="Sub" width="400"> 
+  <div class="image-item"> <img src="/img/VR_2.png" alt="Sub" width="400"> 
   <figcaption>MR Platformer</figcaption> 
   </div> 
 </figure>
