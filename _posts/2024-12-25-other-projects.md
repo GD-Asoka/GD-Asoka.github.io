@@ -52,7 +52,7 @@ artist: artstation.com/equinoz
 <h2>Level Design 3D</h2>
 <br>Created a large scale enironment in Unreal Engine 5 utilizing Nanite and Lumen. Implemented various level design principles to create a level for the game Spyro.
 <figure>
-  <img src="/img/TCoSP.png" alt="Tutorial" width="800">
+  <img src="/img/3DLD.png" alt="Tutorial" width="800">
   <figcaption>Tutorial Level</figcaption>
 </figure>
 <p>
@@ -60,7 +60,7 @@ artist: artstation.com/equinoz
 <h2>Level Design 2D</h2>
 <br>Created a group of levels in Lunar Magic for Super Mario World. 
 <figure>
-  <img src="/img/TCoSP.png" alt="Tutorial" width="800">
+  <img src="/img/LM.png" alt="Tutorial" width="800">
   <figcaption>Tutorial Level</figcaption>
 </figure>
 <p>
@@ -69,7 +69,7 @@ artist: artstation.com/equinoz
 <h2>Systems Design</h2>
 <br>Created a character for Brawlhalla, a 1 vs 1 combat game. Designed and balanced to fit within the existing meta of the game.
 <figure>
-  <img src="/img/TCoSP.png" alt="Tutorial" width="800">
+  <img src="/img/SD.png" alt="Tutorial" width="1000">
   <figcaption>Tutorial Level</figcaption>
 </figure>
 <p>
