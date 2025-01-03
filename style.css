@@ -60,13 +60,13 @@ a:hover {
 
 .link-preview {
   border: 1px solid #ccc;
-    border-radius: 8px;
+  border-radius: 8px;
     overflow: hidden;
     transition: transform 0.3s, box-shadow 0.3s;
     cursor: pointer;
     text-align: center;
   width: 300px;
-    /* Adjust as needed */
+  /* Adjust as needed */
     padding: 10px;
     max-width: 300px;
     text-decoration: none;
@@ -81,14 +81,17 @@ a:hover {
   }
   
   .preview-image {
-    width: 100%;
+  width: 100px;
+    /* Adjust as needed */
     height: auto;
   margin-right: 20px;
-  }
-  
-  .preview-text {
-    display: flex;
-    flex-direction: column;
+}
+
+.preview-text {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+    /* Align text to the left */
 }
 
 .preview-title {
@@ -100,5 +103,5 @@ a:hover {
 .preview-description {
   font-size: 1em;
   color: #666;
-  margin: 0 1em 1em 1em;
+  margin: 0;
 }

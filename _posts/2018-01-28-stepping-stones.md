@@ -79,7 +79,7 @@ Runstars - My first online multiplayer game. Inspired by Fall Guys and Astro Bot
 <p>
 </p>
 Stonk Warrior 2 - Coming full circle, SW2 was the penultimate game I worked on in school. More stocks with a deeper stock market system.
-<div class="link-preview" onclick="window.location.href='https://sydneyculshaw.itch.io/stonk-warrior2';">
+<div class="link-preview" onclick="window.open('https://sydneyculshaw.itch.io/stonk-warrior2', '_blank');">
   <img src="/img/SW2.png" alt="Stonk Warrior 2" class="preview-image">
   <div class="preview-text">
     <h3 class="preview-title">Stonk Warrior 2</h3>
