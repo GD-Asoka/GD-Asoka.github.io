@@ -59,13 +59,20 @@ a:hover {
 }
 
 .link-preview {
-    border: 1px solid #ccc;
+  border: 1px solid #ccc;
     border-radius: 8px;
     overflow: hidden;
     transition: transform 0.3s, box-shadow 0.3s;
     cursor: pointer;
     text-align: center;
-    width: 300px; /* Adjust as needed */
+  width: 300px;
+    /* Adjust as needed */
+    padding: 10px;
+    max-width: 300px;
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    align-items: center;
   }
   
   .link-preview:hover {
@@ -76,39 +83,22 @@ a:hover {
   .preview-image {
     width: 100%;
     height: auto;
+  margin-right: 20px;
   }
   
-  .preview-title {
-    font-size: 1.2em;
-    margin: 0.5em 0;
-  }
-  
-  .preview-description {
-    font-size: 1em;
-    color: #666;
-    margin: 0 1em 1em 1em;
-  }
-.link-preview {
-  border: 1px solid #ddd;
-  padding: 10px;
-  max-width: 300px;
-  text-decoration: none;
-  color: inherit;
-  display: block;
+  .preview-text {
+    display: flex;
+    flex-direction: column;
 }
-  
-        .link-preview img {
-          max-width: 100%;
-          height: auto;
-        }
-    
-        .link-preview .title {
-          font-size: 10px;
-          font-weight: bold;
-          margin: 5px 0;
-        }
-    
-        .link-preview .description {
-          font-size: 8px;
-          color: #555;
-        }
+
+.preview-title {
+  font-size: 1.2em;
+  margin: 0.5em 0;
+  font-weight: bold;
+}
+
+.preview-description {
+  font-size: 1em;
+  color: #666;
+  margin: 0 1em 1em 1em;
+}
