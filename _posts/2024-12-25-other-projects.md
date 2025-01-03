@@ -67,12 +67,6 @@ artist: Abhilash Ravindranath
 </p>
 <h2>Systems Design</h2>
 <br>Created a character for Brawlhalla, a 1 vs 1 combat game. Designed and balanced to fit within the existing meta of the game.
-<!-- <figure>
-  <img src="/img/SD.png" alt="Tutorial" width="1000">
-  <figcaption>Tutorial Level</figcaption>
-</figure>
-<p>
-</p> -->
 <p>
 <figure class="image-container"> 
   <div class="image-item"> <img src="/img/SD.png" alt="SD1" width="400"> 
