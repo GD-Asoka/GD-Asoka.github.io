@@ -107,3 +107,16 @@ a:hover {
   color: #666;
   margin: 0;
 }
+.links-container {
+  display: flex;
+  justify-content: space-between;
+  /* Adjust spacing between links */
+  flex-wrap: wrap;
+  /* Wrap links to the next line if they don't fit */
+}
+
+/* .image-container img {
+  width: 100%;
+  height: auto;
+  
+} */
