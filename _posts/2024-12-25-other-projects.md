@@ -1,9 +1,9 @@
 ---
-title: Projects
-background: https://cdnb.artstation.com/p/assets/images/images/007/095/957/large/mark-chang-lab3.jpg
+title: Game Design Projects
+background: "/img/GH.png"
 layout: post
 subtitle: Game Dev Highlights
-artist: artstation.com/equinoz
+artist: Abhilash Ravindranath
 ---
 
 <h2>Game Design Document</h2>
@@ -65,12 +65,21 @@ artist: artstation.com/equinoz
 </figure>
 <p>
 </p>
-
 <h2>Systems Design</h2>
 <br>Created a character for Brawlhalla, a 1 vs 1 combat game. Designed and balanced to fit within the existing meta of the game.
-<figure>
+<!-- <figure>
   <img src="/img/SD.png" alt="Tutorial" width="1000">
   <figcaption>Tutorial Level</figcaption>
 </figure>
 <p>
+</p> -->
+<p>
+<figure class="image-container"> 
+  <div class="image-item"> <img src="/img/SD.png" alt="SD1" width="400"> 
+  <figcaption>Character Design</figcaption> 
+  </div> 
+  <div class="image-item"> <img src="/img/SD2.png" alt="SD2" width="400"> 
+  <figcaption>Balancing</figcaption> 
+  </div> 
+</figure>
 </p>

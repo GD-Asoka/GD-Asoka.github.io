@@ -55,44 +55,44 @@ SkullSmash Speedway - a local multiplayer 1v1 game in which each player controls
 <p>
 </p>
 Misinformation Nation - an auto battler inspired by Super Auto Pets, themed around conspiracy theories.
-<a href="https://asoka.itch.io/mad-mod-kumar" target="_blank" class="link-preview image-container">
-    <img src="/img/MMK.png" alt="Mad Mod Kumar">  
+<a href="https://sydneyculshaw.itch.io/misinformation-nation" target="_blank" class="link-preview image-container">
+    <img src="/img/MN.png" alt="Mad Mod Kumar">  
 </a>
-  <div class="title">Mad Mod Kumar | GameJam</div>
-  <div class="description">Play as MadMod Kumar, a moderator for a popular twitch streamer who doesn't appreciate you. Make her life hell!</div>
+  <div class="title">Misinformation Nation</div>
+  <div class="description">Gather a team of theories, synergize they're abilities, and spread the truth to those uneducated 9-5 Workers!</div>
 <p>
 </p>
 Nippon Ping Pong - a VFX assignment I turned into a game. A simple relaxing game about balancing a ball for as long as you can. It gets harder the longer you play. Also playable on mobile.
-<a href="https://asoka.itch.io/mad-mod-kumar" target="_blank" class="link-preview image-container">
-    <img src="/img/MMK.png" alt="Mad Mod Kumar">  
+<a href="https://asoka.itch.io/nippon-ping-pong" target="_blank" class="link-preview image-container">
+    <img src="/img/NPP.png" alt="Mad Mod Kumar">  
 </a>
-  <div class="title">Mad Mod Kumar | GameJam</div>
-  <div class="description">Play as MadMod Kumar, a moderator for a popular twitch streamer who doesn't appreciate you. Make her life hell!</div>
+  <div class="title">Nippon Ping Pong</div>
+  <div class="description">A meditative game; whose aim is b a l a n c e</div>
 <p>
 </p>
 Runstars - My first online multiplayer game. Inspired by Fall Guys and Astro Bot. I worked on level design and multiplayer implementation of power ups.
-<a href="https://asoka.itch.io/mad-mod-kumar" target="_blank" class="link-preview image-container">
-    <img src="/img/MMK.png" alt="Mad Mod Kumar">  
+<a href="https://baqarzaidi10.itch.io/runstors" target="_blank" class="link-preview image-container">
+    <img src="/img/RS.png" alt="Runstars">  
 </a>
-  <div class="title">Mad Mod Kumar | GameJam</div>
-  <div class="description">Play as MadMod Kumar, a moderator for a popular twitch streamer who doesn't appreciate you. Make her life hell!</div>
+  <div class="title">Runstars</div>
+  <div class="description">Have you ever wanted to challenge a friend to an online multiplayer platformer, with silly cartoonish antics, and punch their lifeless corpse off the face of the planet? Well, then Runstars is the game for you!</div>
 <p>
 </p>
 Stonk Warrior 2 - Coming full circle, SW2 was the penultimate game I worked on in school. More stocks with a deeper stock market system.
-<figure>
+<div class="link-preview" onclick="window.location.href='https://sydneyculshaw.itch.io/stonk-warrior2;">
+  <img src="/img/SW2.png" alt="Stonk Warrior 2" class="preview-image">
+  <h3 class="preview-title">Stonk Warrior 2</h3>
+  <p class="preview-description">Test your stock buying skill in this fun minigame where you buy stocks against your dad's skills! Prove to your father that you have the right to carry  torch of "Stonk Warrior" for generations to come.</p>
+</div>
+<!-- <figure>
   <img src="/img/TCoSP.png" alt="Tutorial" width="800">
   <figcaption>Tutorial Level</figcaption>
 </figure>
-</p>
-<div class="link-preview" onclick="window.location.href='https://example.com';">
-  <img src="https://example.com/image.jpg" alt="Example Image" class="preview-image">
-  <h3 class="preview-title">Example Title</h3>
-  <p class="preview-description">Example description for the link preview goes here.</p>
-</div>
+</p> -->
 
-<p>
+<!-- <p>
  <a href="https://tomblack.itch.io/chroniclesofstickypete" target="_blank">Please try out the game here!</a>
 </p>
 <p>
  <a href="https://docs.google.com/document/d/1Ut-r1nERe2-Njsdsv3ahboaLMFccejxzuX55LbY6WnA/edit?tab=t.0#heading=h.ttg9rgu8m2bj" target="_blank">Check out the Game Design Document here!</a>
-</p>
+</p> -->
