@@ -47,15 +47,34 @@ figcaption {
     /* Optional: Change the color as well */
 }
 a {
-    color: rgb(125, 238, 255);
+  color: rgb(125, 238, 255);
     /* Change this to your desired color */
     text-decoration: none;
-    /* Optional: remove underline */
+  /* Removes the underline */
 }
 
 a:hover {
-    color: rgb(129, 255, 209);
-    /* Change this to the color on hover */
+  /* Preserve other hover styles */
+  color: rgb(129, 255, 209);
+  /* Example hover color */
+    text-decoration: none;
+    /* Ensures no underline on hover */
+  }
+  
+  a:active {
+    /* Preserve other active styles */
+    color: rgb(255, 185, 80);
+    /* Example active color */
+    text-decoration: none;
+    /* Ensures no underline on active */
+  }
+  
+  a:visited {
+    /* Preserve other visited styles */
+    color: rgb(255, 150, 223);
+    /* Example visited color */
+    text-decoration: none;
+    /* Ensures no underline on visited */
 }
 
 .link-preview {
