@@ -41,8 +41,8 @@ Finally, to make the levels hit the sweet spot of feeling challenging, I added e
 </figure>
 </p>
 <p>
- <a href="https://tomblack.itch.io/chroniclesofstickypete" target="_blank">Please try out the game here!</a>
+ <a href="https://tomblack.itch.io/chroniclesofstickypete" target="_blank" style="text-decoration: none;">Please try out the game here!</a>
  </p>
  <p>
- <a href="https://docs.google.com/document/d/1Ut-r1nERe2-Njsdsv3ahboaLMFccejxzuX55LbY6WnA/edit?tab=t.0#heading=h.ttg9rgu8m2bj" target="_blank">Check out the Game Design Document here!</a>
+ <a href="https://docs.google.com/document/d/1Ut-r1nERe2-Njsdsv3ahboaLMFccejxzuX55LbY6WnA/edit?tab=t.0#heading=h.ttg9rgu8m2bj" target="_blank" style="text-decoration: none;">Check out the Game Design Document here!</a>
  </p>
