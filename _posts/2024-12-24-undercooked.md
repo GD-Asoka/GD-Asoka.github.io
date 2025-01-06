@@ -22,6 +22,3 @@ For comedic effect, I scoured the internet for hilarious voice lines from Ramsey
 <p>
  <a href="https://tomblack.itch.io/undercooked" target="_blank" style="text-decoration: none;">Please try out the game here!</a>
  </p>
- <!-- <p>
- <a href="https://docs.google.com/document/d/1Ut-r1nERe2-Njsdsv3ahboaLMFccejxzuX55LbY6WnA/edit?tab=t.0#heading=h.ttg9rgu8m2bj" target="_blank">Check out the Game Design Document here!</a>
- </p> -->
