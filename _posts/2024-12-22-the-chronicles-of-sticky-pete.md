@@ -9,11 +9,13 @@ artist: Abhilash Ravindranath
 The Chronicles of Sticky Pete is my favorite game I've ever made. The concept of the game is switching perspectives using your 'doodle jump' ability. The art style is set in the sketch book of Pete, the game designer. The story is that Pete is dreaming, and you must help solve the puzzles in his dream to help him wake up.
 <p>
 <figure class="image-container"> 
-  <div class="image-item"> <img src="/img/SP_T.jpg" alt="Zoomable Image" id="zoomable-image" width="400"> 
-  <figcaption>Tutorial</figcaption> 
+  <div class="image-item"> 
+    <img src="/img/SP_T.jpg" alt="Zoomable Image" class="zoomable-image" width="400"> 
+    <figcaption>Tutorial</figcaption> 
   </div> 
-  <div class="image-item"> <img src="/img/SP_D.jpg" alt="Zoomable Image" id="zoomable-image" width="400"> 
-  <figcaption>Door</figcaption> 
+  <div class="image-item"> 
+    <img src="/img/SP_D.jpg" alt="Zoomable Image" class="zoomable-image" width="400"> 
+    <figcaption>Door</figcaption> 
   </div> 
   <div id="overlay" class="overlay"></div>
   <script src="script.js"></script>
