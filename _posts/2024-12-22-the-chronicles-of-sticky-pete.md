@@ -15,10 +15,10 @@ The Chronicles of Sticky Pete is my favorite game I've ever made. The concept of
   <div class="image-item"> <img src="/img/SP_D.jpg" alt="Zoomable Image" id="zoomable-image" width="400"> 
   <figcaption>Door</figcaption> 
   </div> 
+  <div id="overlay" class="overlay"></div>
+  <script src="script.js"></script>
 </figure>
 </p>
-    <div id="overlay" class="overlay"></div>
-    <script src="script.js"></script>
 The game was inspired by TooDee and TopDee, but in this game, there is only one character, and gravity changes every time sticky pete switches from topdown to sidescroller and vice versa. 
 The biggest challenge initially was that the game became somewhat trivial if you were to play in topdown mode the whole time. To solve this, I added highlight walls that can only be passed through when sticky pete is in a specific perspective, i.e either topdown or sidescroller. I also added a star system - to get a perfect level, i.e 3 stars, you must complete the level optimally using the minimum number of doodle jumps necessary. 
 <p>
