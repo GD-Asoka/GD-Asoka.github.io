@@ -11,6 +11,28 @@
   transition: all 0.3s ease;
 }
 
+#zoomable-image {
+  width: 300px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.overlay img {
+  max-width: 90%;
+  max-height: 90%;
+}
 /* CSS for the hover effect */
 .image-container img:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
