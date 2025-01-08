@@ -11,12 +11,6 @@
   transition: all 0.3s ease;
 }
 
-#zoomable-image {
-  width: 300px;
-  cursor: pointer;
-  transition: transform 0.3s ease;
-}
-
 .overlay {
   position: fixed;
   top: 0;
@@ -41,8 +35,13 @@
 
 .image-item {
     text-align: center;
-    flex: 1;
+    flex: 1;    
+    transition: transform .2s; /* Animation */
     /* Ensures the images take equal space */
+}
+
+.image-item:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
 .image-item img {
@@ -51,13 +50,6 @@
     /* Keeps images responsive */
 }
 
-.image-item img:hover {
-  -ms-transform: scale(1.5);
-    /* IE 9 */
-    -webkit-transform: scale(1.5);
-    /* Safari 3-8 */
-    transform: scale(1.5);
-}
 
 .centered-figure {
     display: flex;
