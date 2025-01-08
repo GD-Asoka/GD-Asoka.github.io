@@ -17,12 +17,7 @@
   transition: transform 0.3s ease;
 }
 .zoom {
-  padding: 50px;
-  background-color: green;
   transition: transform .2s;
-  width: 200px;
-  height: 200px;
-  margin: 0 auto;
 }
 
 .zoom:hover {
@@ -53,6 +48,11 @@
 .image-container img:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   opacity: 0.8;
+  -ms-transform: scale(1.5);
+    /* IE 9 */
+    -webkit-transform: scale(1.5);
+    /* Safari 3-8 */
+    transform: scale(1.5);
 }
 
 .image-item {
