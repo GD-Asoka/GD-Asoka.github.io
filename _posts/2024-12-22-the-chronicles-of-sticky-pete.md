@@ -10,15 +10,13 @@ The Chronicles of Sticky Pete is my favorite game I've ever made. The concept of
 <p>
 <figure class="image-container"> 
   <div class="image-item"> 
-    <img src="/img/SP_T.jpg" alt="Zoomable Image" class="zoomable-image" width="400"> 
+    <img src="/img/SP_T.jpg" alt="Zoomable Image" class="zoom" width="400"> 
     <figcaption>Tutorial</figcaption> 
   </div> 
   <div class="image-item"> 
-    <img src="/img/SP_D.jpg" alt="Zoomable Image" class="zoomable-image" width="400"> 
+    <img src="/img/SP_D.jpg" alt="Zoomable Image" class="zoom" width="400"> 
     <figcaption>Door</figcaption> 
   </div> 
-  <div id="overlay" class="overlay"></div>
-  <script src="script.js"></script>
 </figure>
 </p>
 The game was inspired by TooDee and TopDee, but in this game, there is only one character, and gravity changes every time sticky pete switches from topdown to sidescroller and vice versa. 
