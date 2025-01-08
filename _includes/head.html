@@ -13,7 +13,6 @@
     {% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}
     {% else %}{{ site.title | escape }}{% endif %}
   </title>
-  <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
 
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
@@ -23,6 +22,7 @@
   <link rel="stylesheet" href="{{" /assets/vendor/bootstrap/css/bootstrap.min.css" | relative_url }}">
   <link rel="stylesheet" href="{{" /assets/vendor/font-awesome/css/font-awesome.min.css" | relative_url }}">
   <link rel="stylesheet" href="{{"/assets/main.css" | relative_url }}">
+  <link rel="shortcut icon" type="image/png" href="favicon.png">
   <link rel="stylesheet" href="/style.css">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
