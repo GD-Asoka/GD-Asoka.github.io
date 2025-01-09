@@ -11,7 +11,7 @@ The Chronicles of Sticky Pete is my favorite game I've ever made. The concept of
 <figure class="image-container"> 
   <div class="image-item"> 
     <img src="/img/SP_T.jpg" alt="Zoomable Image" onclick="showOverlay(this)" width="400"> 
-    <figcaption>Tutorial</figcaption> 
+    <figcaption>Test</figcaption> 
   </div> 
   <div class="image-item"> 
     <img src="/img/SP_D.jpg" alt="Zoomable Image" onclick="showOverlay(this)" width="400"> 
