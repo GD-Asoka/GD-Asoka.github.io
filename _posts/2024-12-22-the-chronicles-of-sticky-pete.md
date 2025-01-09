@@ -10,7 +10,7 @@ The Chronicles of Sticky Pete is my favorite game I've ever made. The concept of
 <p>
 <figure class="image-container"> 
   <div class="image-item"> <img src="/img/SP_T.jpg" alt="Sub" width="400"> 
-  <figcaption>Test</figcaption> 
+  <figcaption>Tutorial</figcaption> 
   </div> 
   <div class="image-item"> <img src="/img/SP_D.jpg" alt="Sub" width="400"> 
   <figcaption>Door</figcaption> 
