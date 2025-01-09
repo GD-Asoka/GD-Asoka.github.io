@@ -36,20 +36,15 @@
 .image-item {
     text-align: center;
     flex: 1;    
-    transition: transform .2s; /* Animation */
-    /* Ensures the images take equal space */
 }
-
-.image-item:hover {
-  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-}
-
 .image-item img {
     max-width: 100%;
     height: auto;
-    /* Keeps images responsive */
+    transition: transform .2s; 
 }
-
+.image-item img:hover {
+  transform: scale(1.5); 
+}
 
 .centered-figure {
     display: flex;
