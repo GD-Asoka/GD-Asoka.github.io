@@ -1,61 +1,36 @@
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-  .image-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 50%;
-    gap: 20px;
-    /* Adds some space between the items */
-  }
+  [class*="col-"] {
+      width: 400px;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-  .image-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 50%;
-    gap: 20px;
-    /* Adds some space between the items */
-  }
+  [class*="col-"] {
+      width: 500px;
+    }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-  .image-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 70%;
-    gap: 20px;
-    /* Adds some space between the items */
-  }
+  [class*="col-"] {
+      width: 600px;
+    }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-  .image-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 75%;
-    gap: 20px;
-    /* Adds some space between the items */
-  }
+  [class*="col-"] {
+      width: 700px;
+    }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-  .image-container {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      width: 100%;
-      gap: 20px;
-      /* Adds some space between the items */
-    
+  [class*="col-"] {
+      width: 800px;
+    }
 }
 /* CSS for the image container */
 .image-container img {
