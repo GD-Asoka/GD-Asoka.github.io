@@ -135,6 +135,8 @@ a:hover {
 @media only screen and (max-width: 600px) {
     [class*="image-item"] {
       width: 400px;
+      text-align: center;
+      flex: 1;
     }
 }
 
@@ -142,6 +144,8 @@ a:hover {
 @media only screen and (min-width: 600px) {
   [class*="image-item"] {
     width: 500px;
+      text-align: center;
+      flex: 1;
   }
 }
 
@@ -149,6 +153,8 @@ a:hover {
 @media only screen and (min-width: 768px) {
   [class*="image-item"] {
     width: 600px;
+      text-align: center;
+      flex: 1;
   }
 }
 
@@ -156,11 +162,15 @@ a:hover {
 @media only screen and (min-width: 992px) {
   [class*="image-item"] {
     width: 700px;
+      text-align: center;
+      flex: 1;
   }
 }
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
   [class*="image-item"] {
     width: 800px;
+      text-align: center;
+      flex: 1;
   }
 }
