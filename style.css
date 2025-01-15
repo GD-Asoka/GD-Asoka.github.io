@@ -1,62 +1,3 @@
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-  .image-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 50%;
-    gap: 20px;
-    /* Adds some space between the items */
-  }
-}
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-  .image-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 50%;
-    gap: 20px;
-    /* Adds some space between the items */
-  }
-}
-
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-  .image-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 70%;
-    gap: 20px;
-    /* Adds some space between the items */
-  }
-}
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
-  .image-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 75%;
-    gap: 20px;
-    /* Adds some space between the items */
-  }
-}
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
-  .image-container {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      width: 100%;
-      gap: 20px;
-      /* Adds some space between the items */
-    
-}
 /* CSS for the image container */
 .image-container img {
   transition: all 0.3s ease;
@@ -190,8 +131,40 @@ a:hover {
   /* Wrap links to the next line if they don't fit */
 }
 
-/* .image-container img {
-  width: 100%;
-  height: auto;
-  
-} */
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .image-container {
+    [class*="img"] {
+      width: 400px;
+    }
+  }
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  [class*="img"] {
+    width: 500px;
+  }
+}
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  [class*="img"] {
+    width: 600px;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  [class*="img"] {
+    width: 700px;
+  }
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  [class*="img"] {
+    width: 800px;
+  }
+}
