@@ -1,6 +1,6 @@
 ---
 title: Game Design Projects
-background: "/img/GH.png"
+background: "/img/BD_GDD.png"
 layout: post
 subtitle: Game Dev Highlights
 artist: Abhilash Ravindranath
