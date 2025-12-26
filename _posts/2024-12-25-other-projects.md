@@ -9,7 +9,7 @@ artist: Abhilash Ravindranath
 <h2>Game Design Document</h2>
 <br>I have created multiple Game Design Documents, but the one I made for my final project - Biodread is the most detailed. Created in Notion, it is essentially a Game Design Wiki that can be used by the entire team to ensure that every aspect of the game (almost) is clearly outlined and detailed.
 <a href="https://www.notion.so/Bio-Dread-GDD-763a053dab5a4e0ba6a5fea4b077ee54?pvs=4" target="_blank" class="link-preview image-container">
-    <img src="/img/BD_GDD.png" alt="GDD Thumbnail" width="800">  
+    <img src="/img/BD_GDD.png" alt="GDD Thumbnail" class="preview-image">  
 </a>
   <div class="title">Biodread GDD | Gwompus Games</div>
   <div class="description">You are a faceless employee of Abyssal Salvage Co. You have been sent deep into the Mariana trench to clear any evidence of illegal experimentation left behind in their facilities. </div>
@@ -19,7 +19,7 @@ artist: Abhilash Ravindranath
 <h2>Quest Design</h2>
 <br>Designed a playable quest for Assassin's Creed Odyssey using Ubisoft's ACO story creator, with multiple characters, endings, and different ways to complete the quest, lending to a more immersive roleplaying experience.
 <a href="https://prod-g2w-acod.ubi.com/creator/app#storykey=liNu7SU9fgpDFhmwERbcnqhIFHfbxKN1h+4z0w6tVUE=" target="_blank" class="link-preview image-container">
-    <img src="/img/QD.png" alt="Quest Design Thumbnail" width="800">  
+    <img src="/img/QD.png" alt="Quest Design Thumbnail" class="preview-image">  
 </a>
   <div class="title">Assassin's Creed Odyssey: Story Creator Mode | Ubisoft (US)</div>
   <div class="description">The Ano Mera mystery - The chief of Ano Mera is missing; Find him before it's too late.</div>
@@ -46,13 +46,13 @@ artist: Abhilash Ravindranath
   <figcaption>MR Platformer</figcaption> 
   </div> 
 </figure>
-<div><iframe width="560" height="315" src="https://www.youtube.com/embed/y2-ViFBU8fc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div><iframe class="responsive-iframe" src="https://www.youtube.com/embed/y2-ViFBU8fc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <h2>Level Design 3D</h2>
 <br>Created a large scale enironment in Unreal Engine 5 utilizing Nanite and Lumen. Implemented various level design principles to create a level for the game Spyro.
 <figure>
-  <img src="/img/3DLD.png" alt="Tutorial" width="800">
+  <img src="/img/3DLD.png" alt="Tutorial" class="preview-image">
   <figcaption>Tutorial Level</figcaption>
 </figure>
 <p>
@@ -60,7 +60,7 @@ artist: Abhilash Ravindranath
 <h2>Level Design 2D</h2>
 <br>Created a group of levels in Lunar Magic for Super Mario World. 
 <figure>
-  <img src="/img/LM.png" alt="Tutorial" width="800">
+  <img src="/img/LM.png" alt="Tutorial" class="preview-image">
   <figcaption>Tutorial Level</figcaption>
 </figure>
 <p>
@@ -69,10 +69,10 @@ artist: Abhilash Ravindranath
 <br>Created a character for Brawlhalla, a 1 vs 1 combat game. Designed and balanced to fit within the existing meta of the game.
 <p>
 <figure class="image-container"> 
-  <div class="image-item"> <img src="/img/SD.png" alt="SD1" width="400"> 
+  <div class="image-item"> <img src="/img/SD.png" alt="SD1" class="preview-image"> 
   <figcaption>Character Design</figcaption> 
   </div> 
-  <div class="image-item"> <img src="/img/SD2.png" alt="SD2" width="400"> 
+  <div class="image-item"> <img src="/img/SD2.png" alt="SD2" class="preview-image"> 
   <figcaption>Balancing</figcaption> 
   </div> 
 </figure>

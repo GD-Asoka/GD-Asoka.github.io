@@ -10,11 +10,11 @@ The Chronicles of Sticky Pete is my favorite game I've ever made. The concept of
 <p>
 <figure class="image-container"> 
   <div class="image-item"> 
-    <img src="/img/SP_T.jpg" alt="Zoomable Image" width="400"> 
+    <img src="/img/SP_T.jpg" alt="Zoomable Image" class="preview-image"> 
     <figcaption>Test</figcaption> 
   </div> 
   <div class="image-item"> 
-    <img src="/img/SP_D.jpg" alt="Zoomable Image" width="400"> 
+    <img src="/img/SP_D.jpg" alt="Zoomable Image" class="preview-image"> 
     <figcaption>Door</figcaption> 
   </div> 
 </figure>
@@ -23,10 +23,10 @@ The game was inspired by TooDee and TopDee, but in this game, there is only one 
 The biggest challenge initially was that the game became somewhat trivial if you were to play in topdown mode the whole time. To solve this, I added highlight walls that can only be passed through when sticky pete is in a specific perspective, i.e either topdown or sidescroller. I also added a star system - to get a perfect level, i.e 3 stars, you must complete the level optimally using the minimum number of doodle jumps necessary. 
 <p>
 <figure class="image-container"> 
-  <div class="image-item"> <img src="/img/SP_H.jpg" alt="Sub" width="400"> 
+  <div class="image-item"> <img src="/img/SP_H.jpg" alt="Sub" class="preview-image"> 
   <figcaption>Highlight Door</figcaption> 
   </div> 
-  <div class="image-item"> <img src="/img/SP_R.jpg" alt="Sub" width="400"> 
+  <div class="image-item"> <img src="/img/SP_R.jpg" alt="Sub" class="preview-image"> 
   <figcaption>Lava Level</figcaption> 
   </div> 
 </figure>
