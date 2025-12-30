@@ -12,14 +12,13 @@
 }
 
 #zoomable-image {
-  width: 100%;
-  max-width: 300px;
+  width: 300px;
   cursor: pointer;
   transition: transform 0.3s ease;
 }
 .zoom {
   transition: transform .2s;
-} 
+}
 
 .zoom:hover {
   -ms-transform: scale(1.5);
@@ -120,19 +119,19 @@ a:hover {
   border: 1px solid #ccc;
   border-radius: 8px;
   overflow: hidden;
-  transition: transform 0.3s, box-shadow 0.3s;
-  cursor: pointer;
-  text-align: center;
-  width: 100%;
-  max-width: 800px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+    text-align: center;
+  width: 800px;
+  /* Adjust as needed */
   padding: 10px;
-  text-decoration: none;
-  color: inherit;
-  display: flex;
-  align-items: center;
+    max-width: 800px;
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    align-items: center;
   box-sizing: border-box;
-  gap: 10px;
-  margin: 8px;
+    /* Ensure padding and border are included in the width */
 }
 
 .link-preview:hover {
@@ -141,14 +140,10 @@ a:hover {
 }
 
 .preview-image {
-  width: 100%;
-  max-width: 400px;
-  height: auto;
+  width: 400px;
+  /* Adjust as needed */
+    height: auto;
   margin-right: 20px;
-}
-
-.links-container .link-preview {
-  flex: 1 1 320px;
 }
 
 .preview-text {
@@ -174,7 +169,6 @@ a:hover {
   justify-content: space-between;
   /* Adjust spacing between links */
   flex-wrap: wrap;
-  gap: 12px;
   /* Wrap links to the next line if they don't fit */
 }
 
@@ -183,29 +177,3 @@ a:hover {
   height: auto;
   
 } */
-
-/* Mobile friendly adjustments */
-@media (max-width: 767px) {
-  .link-preview {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-  .preview-image {
-    margin-right: 0;
-    margin-bottom: 10px;
-    width: 100%;
-    max-width: 100%;
-  }
-  .image-container img:hover,
-  .image-container img {
-    transform: none;
-  }
-  .links-container {
-    gap: 12px;
-  }
-  .link-preview { flex: 1 1 100%; }
-}
-
-/* Responsive embeds and iframes */
-.responsive-iframe { width:100%; aspect-ratio:16/9; border:0; }
-.responsive-embed embed { width:100%; height:auto; max-width:1000px; }
